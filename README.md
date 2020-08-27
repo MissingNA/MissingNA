@@ -4,10 +4,7 @@ __I am a Data Scientist based in the Big Apple 🍎🏙️
 
 - 🔭 I’m currently looking for a __Data Science and Analytics__ position.
 - ⚙️ Daily languages: `python`, `sql`
-- 🌱 Currently learning more about App Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🌱 Currently learning more about __Machine Learning__, __AI__, __Deep Learning__ & __App Development__
 - 📫 How to reach me: eugene.ejlee@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Avid rock climber 🧗‍♂️and just started learning to skate🛹
+- ⚡ Fun fact: Avid __rock climber__ 🧗‍♂️and just land my first ollie 🛹
