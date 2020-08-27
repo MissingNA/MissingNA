@@ -1,8 +1,5 @@
 ### Good Morning! Oh, and in case I don't see ya, Good Afternoon, Good Evening and Good Night! 👋
 
-<!--
-**MissingNA/MissingNA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 __I am a Data Scientist based in the Big Apple 🍎🏙️
 
 - 🔭 I’m currently looking for a __Data Science and Analytics__ position.
@@ -14,4 +11,3 @@ __I am a Data Scientist based in the Big Apple 🍎🏙️
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Avid rock climber 🧗‍♂️and just started learning to skate🛹
--->
