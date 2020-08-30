@@ -1,6 +1,6 @@
 ### Good Morning! Oh, and in case I don't see ya, Good Afternoon, Good Evening and Good Night! 👋
 
-__I am a Data Scientist based in the Big Apple 🍎🏙️
+I am a Data Scientist based in the Big Apple 🍎🏙️
 
 - 🔭 I’m currently looking for a __Data Science and Analytics__ position.
 - ⚙️ Daily languages: `python`, `sql`
